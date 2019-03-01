@@ -10,17 +10,17 @@ want to limit and monitor how much a device is used, then this is the app for yo
 
 
 ## Why Use Our App
-By installing this app an Android device you can:
+By installing this app on your Android device you can:
 * Set daily usage time limit for both the whole device as well as individual
 apps.
-* Set multiple lock times throughout the day for any app or the whole device
-* Set multiple unlock times throught the day for any app or the whole device
-* Find out the apps that are used for long periods
-* Find out the apps that are opened frequently
-* Do all this and more even when offline for free right on the device!
+* Set multiple locking times throughout the day for any app or the whole device
+* Set multiple unlocking times throught the day for any app or the whole device
+* Find out apps that are used for long periods of time
+* Find out apps that are opened frequently
+* Do all this and more -even when offline- for free right on the device!
 
 ## Setting Up
-* [First click here to <b>download</b> and then install the package] (./build/GuardianLock_latest.apk)
+* [First click here to download and then install the package](./build/GuardianLock_latest.apk)
 * On first launch you will be asked to grant Admin access
   * <i>This is to make the app more secure from unauthorised use</i>
 * You will be asked to grant Usage Access so that you can monitor how the device is used
