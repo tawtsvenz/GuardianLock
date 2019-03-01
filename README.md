@@ -1,4 +1,4 @@
-# Guardian Lock
+
 
 <img src="./icons/app_icon.png" align="center"
      title="Icon by tawtsvenz" width="178" height="178">
@@ -23,6 +23,6 @@ apps.
 * Find out the apps that are used for long periods
 * Find out the apps that are opened frequently
 * Do all this offline right on the device!
-* ##and so much more!
+* and so much more!
 
 ## How To Use
