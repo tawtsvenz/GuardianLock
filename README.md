@@ -1,12 +1,18 @@
 # Guardian Lock
 
-<img src="./icons/app_icon.png" align="right"
-     title="Icon by tawtsvenz" width="120" height="178">
+<img src="./icons/app_icon.png" align="center"
+     title="Icon by tawtsvenz" width="178" height="178">
+# Guardian Lock
+
+
+
+
 
 This is the ultimate time management app for Android devices. Do you 
 want to limit and monitor how much a device is used and when it is used
 then this is the app for you.
-###[Click here to download the latest Android apk]("./icons/app_icon.png")
+
+[Click here to download the latest Android apk]("./icons/app_icon.png")
 
 ## Why Use Our App
 By installing this app an Android device you can:
