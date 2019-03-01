@@ -1,7 +1,7 @@
 <img src="./icons/app_icon.png" align="center"
      title="Icon by tawtsvenz" width="120" height="120">
 
-     # Guardian Lock
+# Guardian Lock
 
 This is the ultimate time management app for Android devices. Do you 
 want to limit and monitor how much a device is used, then this is the app for you.
@@ -31,16 +31,21 @@ apps.
 ## How To Use
 * Click on the `GLOBAL` button to get lock options for
 the whole device
-* Click on an app in the list to get lock options for that app
+* Or click on an app row in the apps list to get lock options for that app
 * Choose any of the options and set away
 
-# Contact Us
+## Contact Us
 <a href="mailto:guardianlock.enquiries@gmail.com">
 Email Us
-</a> 
+     
+</a> <br/>
+
 <a href="https://www.facebook.com/guardianlockZW">
 Visit our Facebook
-</a> 
+
+</a> <br/>
+
 <a href="https://www.twitter.com/guardian_lock">
 Visit our Twitter
-</a> 
+
+</a> <br/>
