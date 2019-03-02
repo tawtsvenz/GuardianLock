@@ -6,7 +6,7 @@
 This is the ultimate time management app for Android devices. Do you 
 want to limit and monitor how much a device is used, then this is the app for you.
 
-[Click here to download the latest Android apk](./build/GuardianLock_latest.apk)
+<a id="download_link" href="./build/GuardianLock_latest.apk">Click here to download the latest Android apk</a>
 
 
 ## Why Use Our App
@@ -27,7 +27,7 @@ apps.
 * Finally setup your password and you're good to go.
 * You may optionally want to also add personal details for recovery in case you forget your password
 <div id="guardian_lock_version">7</div>
-<input type="hidden" id="version" value="8" />
+<input type="hidden" id="guardian_lock_version" value="7" />
 
 
 ## How To Use
