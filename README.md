@@ -27,7 +27,7 @@ apps.
 * Finally setup your password and you're good to go.
 * You may optionally want to also add personal details for recovery in case you forget your password
 <div id="guardian_lock_version">7</div>
-<input type="hidden" id="guardian_lock_version" value="7" />
+<input type="hidden" id="guardian_lock_version" value="8" />
 
 
 ## How To Use
