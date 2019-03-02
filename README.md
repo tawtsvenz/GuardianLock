@@ -38,19 +38,16 @@ the whole device
 
 ## Contact Us
 <a href="mailto:guardianlock.enquiries@gmail.com">
-Email Us
-     
-</a> <br/>
+Email Us</a> <br/>
+
 
 <a href="https://www.facebook.com/guardianlockZW">
-Visit our Facebook
+Visit our Facebook</a> <br/>
 
-</a> <br/>
 
 <a href="https://www.twitter.com/guardian_lock">
-Visit our Twitter
+Visit our Twitter</a> <br/>
 
-</a> <br/>
 
 DONATE bitcoin and help us make the app better. Our address is shown below
 
