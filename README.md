@@ -47,8 +47,3 @@ Visit our Facebook</a> <br/>
 
 <a href="https://www.twitter.com/guardian_lock">
 Visit our Twitter</a> <br/>
-
-
-DONATE bitcoin and help us make the app better. Our address is shown below
-
-<b>15MTqJFJLosjpxdbyhmnu7ZiJw6got6HCC</b>
