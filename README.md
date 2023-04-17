@@ -6,7 +6,7 @@
 This is the ultimate time management app for Android devices. Do you 
 want to limit and monitor how much a device is used, then this is the app for you.
 
-[latest_apk]: https://github.com/tawtsvenz/GuardianLock/releases/download/v10/app-release.apk
+[latest_apk]: https://github.com/tawtsvenz/GuardianLock/releases/download/v11/app-release.apk
 <input type="hidden" id="guardian_lock_version" value="10" />
 Click here [latest_apk] to download the latest Android apk
 
