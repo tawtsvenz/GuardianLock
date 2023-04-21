@@ -8,7 +8,7 @@ want to limit and monitor how much a device is used, then this is the app for yo
 
 [latest_apk]: https://play.google.com/store/apps/details?id=com.tsv.guardianlock
 <input type="hidden" id="guardian_lock_version" value="10" />
-Click here [latest_apk] to download the latest Android apk
+Click here [latest_apk] to download the latest Android app on the Google Play Store
 
 
 ## Why Use Our App
@@ -22,7 +22,7 @@ apps.
 * Do all this and more -even when offline- for free right on the device!
 
 ## Setting Up
-* First click here [latest_apk] to download and then install the package
+* First click here [latest_apk] to install Guardian Lock
 * On first launch you will be asked to grant Admin access
   * <i>This is to make the app more secure from unauthorised use</i>
 * You will be asked to grant Usage Access so that you can monitor how the device is used
